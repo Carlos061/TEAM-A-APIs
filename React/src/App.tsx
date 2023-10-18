@@ -7,7 +7,7 @@ function App() {
  return (
     <div className="App">
       <div className="centered-container">
-        <Container style={{ border: '1px solid black', height: '60%', width: '80%' }}>
+        <Container>
           {/* Add your components here */}
         </Container>
       </div>
